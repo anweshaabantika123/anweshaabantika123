@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Anwesha Abantika 👋
+
+🎓 ECE Student | Data Analysis | Data Science Enthusiast
+💻 Skills: Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Power BI • Excel
+
+📊 Turning data into insights through analysis and visualization
+
+## 📫 Connect
+
+Email: anweshaabantika@gmail.com
+
 
 <!--
 **anweshaabantika123/anweshaabantika123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
